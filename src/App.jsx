@@ -36,7 +36,7 @@ const App = () => {
       <h1 className="text-white text-center my-3 font-bold text-xl">
         Password Generator
       </h1>
-      <div className="flex shadow rounded-lg overflow-hidden bg-amber-50 mb-8">
+      <div className="flex shadow text-black rounded-lg overflow-hidden bg-amber-50 mb-8">
         <input
           type="text"
           value={password}
